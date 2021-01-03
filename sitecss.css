@@ -1,0 +1,199 @@
+
+body{
+	background-image: url(image7.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	opacity:0.9;
+	background-color: #F2E0D5;
+	
+}
+#video{
+	margin-left: 25%;
+}
+
+.p1{
+	width:70%;
+	height: 50%;
+	background-color: black;
+	opacity:0.9;
+	color: white;
+	margin-left: 0;
+	padding: 50px;
+	margin-top: 10px;
+	font-family: sans-serif;
+
+}
+.p2{
+	width:50%;
+	height: 50%;
+	background-color: black;
+	opacity:0.9;
+	color: white;
+	margin-top: 50px;
+	margin-left: 44%;
+	padding: 40px;
+	float: left;
+	font-family: sans-serif;
+
+}
+.p3{
+	margin-top: 25%;
+	width:20%;
+	height: 30%;
+	background-color: black;
+	opacity:0.9;
+	color: white;
+	margin-left: 0;
+	padding: 50px;
+	font-family: sans-serif;
+
+}
+
+.bar {
+    color: black;
+    height: 60px;
+   	background-color:#D9C6BF;
+
+  	
+   
+}
+
+.bar a{
+	color: black;
+	float: left;
+	text-decoration: none;
+	padding-bottom: 5px;
+
+}
+.navbutton1{
+	
+	width: 900px;
+	padding-left: 30px;
+	padding-bottom: 80px;
+
+
+}
+.navbutton{
+	float: left;
+	padding-left: 50px;
+	margin-right: 10px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+
+}
+
+
+
+
+        .inner {
+        	margin-top: 18%; 
+            background-color: black;
+            height: 5%;
+            margin-right: 450px;
+            margin-left: 0px;
+           
+        }
+
+        #innerTeam {
+            text-align: center;
+            color: white;
+            margin-bottom: 2px;
+            margin-top: 2px;
+        }
+        .team {
+        	color:white;
+        	height: 20px;
+        	text-align: center;
+
+        }
+        .box_person {
+            display: inline-block;
+            border: solid color grey;
+            height: 5%;
+            padding: 5px;
+        }
+        .box_person p{
+        	padding-bottom: 1px;
+        }
+
+        .image_round {}
+
+        .person {
+            width: 165px;
+        }
+
+        .bilgi {
+            background-color: white;
+            margin-top: 0px;
+        }
+
+        #komple {
+            background-color:black;
+            display: inline-table;
+            left: 70px;
+            margin-left: 50px;
+            margin-bottom: 10px;
+            margin-right: 0px;
+            text-align: center;
+            margin-top: 2px;
+
+        }
+
+        #team {
+            padding-top: 5px;
+        }
+
+        .flex_flex-4 {
+            display: inline;
+         }
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 10px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #593C39;
+  color: light-pink;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #F2E0D5;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #BF826B;
+  padding: 20px;
+}
+ #box2{
+  float: left;
+  width: 40%;
+  margin:60px;
+  margin-left: 20px;
+}
+
+
+
+.container{
+  float: right;
+  width: 40%;
+  margin-top: 20px;
+  margin-right:20px;
+  
+}
+.all{
+  background-color: #F2E0D5;
+  height: 500px;
+  font-family: sans-serif;
+}
